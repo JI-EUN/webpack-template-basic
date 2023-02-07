@@ -1,0 +1,10 @@
+$color-black:#000;
+$color-whtie:#fff;
+body{
+    background-color: $color-black;
+    h1{
+     color:$color-whtie;  
+     font-size:40px; 
+     display: flex;
+    }
+}
